@@ -1,4 +1,4 @@
-# Euthanasia Analysis in Coimbatore's Pet Population
+# Data Analysis Project: Euthanasia Trends in Coimbatore's Pet Population
 
 ## Project Overview
 This project analyzes euthanasia trends among canine and feline populations in Coimbatore, India. It involves data collection from local pet hubs and veterinary care centers, followed by preprocessing, exploratory data analysis (EDA), and visualization to derive meaningful insights.
